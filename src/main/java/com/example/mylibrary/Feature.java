@@ -13,4 +13,6 @@ public class Feature {
     public static String sayMorning(){
         return "Morning";
     }
+
+    public static void like(){}
 }

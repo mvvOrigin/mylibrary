@@ -19,4 +19,6 @@ public class Feature {
     public static void likeOn() {}
 
     public static void pumpkin(){}
+
+    public static void newShadow(){}
 }

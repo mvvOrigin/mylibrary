@@ -17,4 +17,6 @@ public class Feature {
     public static void like(){}
 
     public static void likeOn() {}
+
+    public static void pumpkin(){}
 }

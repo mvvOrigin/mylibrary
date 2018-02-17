@@ -9,4 +9,8 @@ public class Feature {
     public static String sayHello() {
         return "Hello!";
     }
+
+    public static String sayMorning(){
+        return "Morning";
+    }
 }

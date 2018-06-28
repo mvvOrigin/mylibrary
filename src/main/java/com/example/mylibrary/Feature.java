@@ -22,5 +22,5 @@ public class Feature {
 
     public static void newShadow(){}
 
-    // Sergey changes
+    // Sergey changes+
 }

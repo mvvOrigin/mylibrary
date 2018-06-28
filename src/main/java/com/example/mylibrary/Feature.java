@@ -32,4 +32,8 @@ public class Feature {
     /**
      * next bug fix
      */
+
+    /**
+     * next bug fix
+     */
 }

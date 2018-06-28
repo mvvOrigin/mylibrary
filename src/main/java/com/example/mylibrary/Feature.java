@@ -23,4 +23,9 @@ public class Feature {
     public static void newShadow(){}
 
     // Sergey changes+
+
+
+    /**
+     * Some bug fix
+     */
 }

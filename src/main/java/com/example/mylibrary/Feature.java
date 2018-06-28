@@ -28,4 +28,8 @@ public class Feature {
     /**
      * Some bug fix
      */
+
+    /**
+     * next bug fix
+     */
 }

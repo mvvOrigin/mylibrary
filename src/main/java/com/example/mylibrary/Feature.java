@@ -21,4 +21,6 @@ public class Feature {
     public static void pumpkin(){}
 
     public static void newShadow(){}
+
+    // Sergey changes
 }
